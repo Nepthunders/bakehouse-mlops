@@ -32,6 +32,7 @@ dbutils.library.restartPython()
 
 # COMMAND ----------
 
+#testing
 dbutils.widgets.text("catalogo", "workspace")
 dbutils.widgets.text("esquema", "default")
 
